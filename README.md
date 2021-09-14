@@ -31,6 +31,6 @@ Icons:
 
 ## Looking ahead
 
-This website was the first project I had worked on by myself from scratch which utilized both HTML and CSS. It is quite a simple attempt but something I am happy to have got through! I have learnt a lot through this project and would be updating my website very shortly!
+This website was the first project I had worked on by myself from scratch which utilized both HTML and CSS. It is quite a simple attempt but something I am happy to have got through! I have learnt a lot through this project and am looking forward to making more and better projects.
 
 Hope you enjoy! :)
