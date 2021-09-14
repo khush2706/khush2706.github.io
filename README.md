@@ -10,6 +10,8 @@ I wanted this website to be simple and user-friendly. Also, I really wanted to u
 https://khush2706.github.io/
 Best used with Google Chrome.
 
+## Inspiration
+
 The layout was heavily inspired by Sean Halpin's personal portfolio website (seanhalpin.io) and can be seen through the shots below. I really liked the simplicity of his work, the playful feel of the whole website, and the general flat design. I hoped to emulate this onto mine.
 
 ![Imgur](http://i.imgur.com/HLRJLKn.png)
